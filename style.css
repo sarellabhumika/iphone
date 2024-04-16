@@ -1,0 +1,45 @@
+
+body
+{
+    overflow-x: hidden;
+}
+/* .navbar
+{
+    margin-left: 100px;
+    
+} */
+/* .pr
+{
+    width: 100%;
+} */
+.lak
+{
+    padding: 30px;
+}
+.sam
+{
+    padding: 30px;
+}
+.sar
+{
+    font-size: 40px;
+    margin-left: 80%;
+}
+.pha :hover
+{
+transform: scale(1.05);
+}
+.mac :hover
+{
+    transform: scale(1.05);
+   
+}
+.yam :hover
+{
+    transform: scale(1.05);
+   
+}
+.sri :hover
+{
+    transform: scale(1.05);
+}
